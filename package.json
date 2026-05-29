@@ -1,0 +1,19 @@
+{
+  "name": "expo-registration-system",
+  "version": "1.0.0",
+  "description": "Unified Expo Registration and Attendee Management System with LocalStorage Sync",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server -p 8000"
+  },
+  "keywords": [
+    "expo",
+    "registration",
+    "management",
+    "kiosk",
+    "countdown",
+    "admin"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
